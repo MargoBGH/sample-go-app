@@ -11,6 +11,6 @@ jobs:
       - name: checkout
         uses: https://github.com/cloudbees-io/checkout@v1
       - name: Run my cloudbees action                         
-        uses: MargoBGH/myb-cloudbees-action@main   
+        uses: MargoBGH/my-cloudbees-action@main   
         with:
           recipient: CloudBees                             

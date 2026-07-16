@@ -13,4 +13,4 @@ jobs:
       - name: Run my cloudbees action                         
         uses: MargoBGH/my-cloudbees-action@main   
         with:
-          recipient: CloudBees                             
+          recipient: CloudBees                        
